@@ -1,4 +1,4 @@
-# ecosystemly
+## ecosystemly
 
 Is where we do the things.
  
@@ -20,7 +20,7 @@ Is where we do the things.
 1. Is Issue/Pull on Project Board
     1. put an Issue/Pull Request on triage on board of Projects
         - only unique 
-    1. mention to room 
+    1. mention to room
 
 ### What do you triage
  
